@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.21)
+project("alarm event")
+file(GLOB SRC "*.c" "./event/*.c")
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+add_executable(events ${SRC})

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/code/alarm/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/events.dir/event/alarm_mem.c.o -c /home/code/alarm/event/alarm_mem.c",
+  "file": "/home/code/alarm/event/alarm_mem.c"
+},
+{
+  "directory": "/home/code/alarm/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/events.dir/alarm_event_detect.c.o -c /home/code/alarm/alarm_event_detect.c",
+  "file": "/home/code/alarm/alarm_event_detect.c"
+},
+{
+  "directory": "/home/code/alarm/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/events.dir/alarm_task_config.c.o -c /home/code/alarm/alarm_task_config.c",
+  "file": "/home/code/alarm/alarm_task_config.c"
+}
+]

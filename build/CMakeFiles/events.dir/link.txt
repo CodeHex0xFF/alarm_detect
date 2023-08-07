@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/events.dir/event/alarm_mem.c.o CMakeFiles/events.dir/alarm_event_detect.c.o CMakeFiles/events.dir/alarm_task_config.c.o -o events 
